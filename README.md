@@ -7,4 +7,5 @@ Simple python script to lookup DNS records from a file
 dnsLookup.py names.txt
 </code> 
 
+
 Will output to <i>dnsResults.csv</i>. Will change this to allow name filed at some point... 
